@@ -3,4 +3,7 @@ public class Cliente {
     private String cpf;
     private int agencia;
     private double saldo;
+
+    // Oie, tudo bom?
+    
 }
